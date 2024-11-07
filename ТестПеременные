@@ -1,0 +1,6 @@
+num1 = (5)
+num2 = (3)
+sum = print(5+3)
+sum= 8
+result = print(sum+num1*num2)
+result 23
